@@ -4,6 +4,11 @@
 <html>
 <head>
 <title>Spring MVC</title>
+
+<style>
+
+</style>
+
 </head>
 <body>
 	<br>
@@ -13,9 +18,13 @@
 		</h2>
 		<h3>
 		<!-- the .html is optional -->
-			<a href="welcome.html">Click here to see the welcome page</a>
+			<a href="welcome.html">Registration</a>
 			(check HomeController.java to view info for @RequestMapping("/welcome"))
 		</h3>
 	</div>
+	
+	<script type="text/javascript">
+	
+	</script>
 </body>
 </html>
